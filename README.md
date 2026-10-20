@@ -1,133 +1,92 @@
-# Hi, I'm Nausheen Ara Khan 👋
+<div align="center">
 
-### Computer Science Student | Aspiring AI/ML Engineer
+# `nausheen.exe`
 
-I'm a **B.Sc. (Hons.) Computer Science student at Jamia Millia Islamia**, interested in **Artificial Intelligence, Machine Learning, DSA, and Software Development**.
+`> developer profile initialized_`
 
-I enjoy learning by building projects, solving problems, and exploring new technologies. Currently, I'm focused on strengthening my programming and DSA fundamentals while building my foundation in AI/ML.
+**Nausheen Ara Khan**
 
----
+`CS Student` · `AI/ML Learner` · `Problem Solver`
 
-## About Me
+[GitHub](https://github.com/Nausheen-AraKhan) · [LinkedIn](https://www.linkedin.com/in/nausheen-ara-khan-a18811397) · [LeetCode](https://leetcode.com/u/Nausheen_Ara06/)
 
-* 🎓 B.Sc. (Hons.) Computer Science — Jamia Millia Islamia
-* 💻 Interested in DSA and Software Development
-* 🤖 Aspiring AI/ML Engineer
-* 🧠 150+ LeetCode problems solved
-* 🏆 100 Days LeetCode Badge
-* 🚀 Interested in building practical and meaningful projects
-* 💼 Content, Social Media & Outreach Intern at CohortLab
+</div>
 
 ---
 
-## Tech Stack
+### `01 // SYSTEM INFO`
 
-**Languages:**
-C, C++, Python, SQL
+```yaml
+degree: B.Sc. (Hons.) Computer Science
+university: Jamia Millia Islamia
+graduation: 2029
+cgpa: 8.2
+current_focus:
+  - Data Structures & Algorithms
+  - Machine Learning
+  - Generative AI & Agentic AI
+```
 
-**Web Development: (learning phase)**
-HTML, CSS, JavaScript 
+### `02 // TECH STACK`
 
-**Databases:**
-MySQL, PostgreSQL
+**Languages:** Python · C++ · SQL
 
-**Tools:**
-Git, GitHub, VS Code, Figma (learning phase)
+**Core Concepts:** Data Structures & Algorithms · Object-Oriented Programming · Problem Solving · AI/ML Fundamentals
 
----
+**Tools:** Git · GitHub · VS Code · PyCharm
 
-## AI/ML
+**Currently Exploring:** Machine Learning · Generative AI · LLMs
 
-Currently exploring:
+### `03 // PROJECT DIRECTORY`
 
-* Python for AI/ML
-* Machine Learning fundamentals
-* Data handling and analysis
-* Generative AI
-* Large Language Models (LLMs)
-* AI-powered applications
+**Coffee Machine Simulator** `Python`
 
-My goal is to build a strong foundation in Machine Learning and gradually move towards building real-world AI-powered applications.
+- Built a command-line coffee machine simulation with resource management and transaction handling.
+- Implemented ingredient tracking, coin-based payments, change calculation and low-resource alerts.
 
----
+**MarkIQ — Hackfluence 2026** `Team Project`
 
-## 💼 Experience
+- Contributed to a hackathon project as part of a four-member team.
+- Worked on high-fidelity mockups, pitch development and presentation.
 
-### CohortLab — Content, Social Media & Outreach Intern
+**CodeAutopsy** `In Development`
 
-* Created and worked on **technical and educational content** related to programming and computer science.
-* Contributed to **social media content and engagement**.
-* Worked on **outreach activities** to increase visibility and engagement.
-* Collaborated with the team on content planning and execution.
-* Gained practical experience in **content creation, communication, social media, and community outreach**.
+- An AI-powered code explanation and debugging platform designed to help learners understand code.
 
-**2026**
+### `04 // CODING STATS`
 
----
+```text
++--------------------------------------+
+|  LeetCode Problems Solved : 175+     |
+|  Primary DSA Language     : C++      |
++--------------------------------------+
+```
 
-## 🧠 DSA & Problem Solving
+[View my LeetCode profile →](https://leetcode.com/u/Nausheen_Ara06/)
 
-I regularly practice **Data Structures and Algorithms** and solve problems on LeetCode to improve my problem-solving and programming skills.
+### `05 // EXPERIENCE & LEADERSHIP`
 
-**150+ LeetCode Problems Solved**
+**Hive Coding Society — Lead Organiser**
 
-Currently working on:
+- Organising coding competitions and technical events.
+- Coordinating event activities and participant communication.
+- Contributing to coding initiatives and student engagement.
 
-* Arrays
-* Strings
-* Linked Lists
-* Stacks
-* Recursion
-* Sorting
-* Searching
-* Binary Search
-* Backtracking
+**CohortLab — Intern | 2026**
 
----
+- Contributed to technical and programming-focused educational content.
+- Supported DSA-oriented learning content and community initiatives.
 
-## 🚀 Projects
+### `06 // ACHIEVEMENTS`
 
-### CodeAutopsy 🔍
-
-A developer-focused project designed to help programmers understand and debug their code.
-
-The goal is to explain not just **what went wrong**, but also **why it went wrong** and how the code can be improved.
-
-**Status:** Under Development 🚧
-
-### Python Projects 🐍
-
-A collection of Python projects built while learning and strengthening Python fundamentals.
+- Solved 175+ problems on LeetCode.
+- Earned a Certificate of Merit from Thinkwonders for achieving the 91.5 percentile in NTCE 2026.
+- Earned the 100 Days of Code badge.
 
 ---
 
-## 📚 Currently Learning
+<div align="center">
 
-* Data Structures & Algorithms
-* Python
-* Machine Learning
-* Generative AI
-* Web Development
+`nausheen.exe` · `profile loaded successfully`
 
----
-
-## 🎯 Goals
-
-* Strengthen DSA and problem-solving skills
-* Build meaningful AI/ML projects
-* Learn Generative AI and LLMs
-* Contribute to Open Source
-* Gain industry experience
-* Become a skilled AI/ML Engineer
-
----
-
-## 🤝 Connect With Me
-
-**LinkedIn:** [www.linkedin.com/in/nausheen-ara-khan-a18811397](http://www.linkedin.com/in/nausheen-ara-khan-a18811397)
-
-**GitHub:** Nausheen-AraKhan
-
----
-
-### Build. Learn. Improve. 🚀
+</div>
