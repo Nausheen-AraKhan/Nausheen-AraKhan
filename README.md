@@ -1,92 +1,114 @@
-<div align="center">
+<h1 align="center">Hey, I'm Nausheen Ara Khan 👋</h1>
 
-# `nausheen.exe`
+<h3 align="center">Aspiring AI/ML Engineer | Computer Science Undergraduate</h3>
 
-`> developer profile initialized_`
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Exploring+Artificial+Intelligence;Learning+Machine+Learning;Building+with+Python;Turning+ideas+into+code." alt="Typing SVG" />
+</p>
 
-**Nausheen Ara Khan**
-
-`CS Student` · `AI/ML Learner` · `Problem Solver`
-
-[GitHub](https://github.com/Nausheen-AraKhan) · [LinkedIn](https://www.linkedin.com/in/nausheen-ara-khan-a18811397) · [LeetCode](https://leetcode.com/u/Nausheen_Ara06/)
-
-</div>
-
----
-
-### `01 // SYSTEM INFO`
-
-```yaml
-degree: B.Sc. (Hons.) Computer Science
-university: Jamia Millia Islamia
-graduation: 2029
-cgpa: 8.2
-current_focus:
-  - Data Structures & Algorithms
-  - Machine Learning
-  - Generative AI & Agentic AI
-```
-
-### `02 // TECH STACK`
-
-**Languages:** Python · C++ · SQL
-
-**Core Concepts:** Data Structures & Algorithms · Object-Oriented Programming · Problem Solving · AI/ML Fundamentals
-
-**Tools:** Git · GitHub · VS Code · PyCharm
-
-**Currently Exploring:** Machine Learning · Generative AI · LLMs
-
-### `03 // PROJECT DIRECTORY`
-
-**Coffee Machine Simulator** `Python`
-
-- Built a command-line coffee machine simulation with resource management and transaction handling.
-- Implemented ingredient tracking, coin-based payments, change calculation and low-resource alerts.
-
-**MarkIQ — Hackfluence 2026** `Team Project`
-
-- Contributed to a hackathon project as part of a four-member team.
-- Worked on high-fidelity mockups, pitch development and presentation.
-
-**CodeAutopsy** `In Development`
-
-- An AI-powered code explanation and debugging platform designed to help learners understand code.
-
-### `04 // CODING STATS`
-
-```text
-+--------------------------------------+
-|  LeetCode Problems Solved : 175+     |
-|  Primary DSA Language     : C++      |
-+--------------------------------------+
-```
-
-[View my LeetCode profile →](https://leetcode.com/u/Nausheen_Ara06/)
-
-### `05 // EXPERIENCE & LEADERSHIP`
-
-**Hive Coding Society — Lead Organiser**
-
-- Organising coding competitions and technical events.
-- Coordinating event activities and participant communication.
-- Contributing to coding initiatives and student engagement.
-
-**CohortLab — Intern | 2026**
-
-- Contributed to technical and programming-focused educational content.
-- Supported DSA-oriented learning content and community initiatives.
-
-### `06 // ACHIEVEMENTS`
-
-- Solved 175+ problems on LeetCode.
-- Earned a Certificate of Merit from Thinkwonders for achieving the 91.5 percentile in NTCE 2026.
-- Earned the 100 Days of Code badge.
+<p align="center">
+  <a href="https://linkedin.com/in/nausheen-ara-khan-a18811397">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Nausheen-AraKhan">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Nausheen_Ara06/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+### ✦ About Me
 
-`nausheen.exe` · `profile loaded successfully`
+I'm a Computer Science undergraduate at **Jamia Millia Islamia**, curious about technology and passionate about building solutions to real-world problems.
 
-</div>
+Currently exploring **Artificial Intelligence and Machine Learning**, strengthening my programming fundamentals, and turning what I learn into practical projects.
+
+- 🎓 B.Sc. (Hons.) Computer Science @ JMI
+- 🤖 Aspiring AI/ML Engineer
+- 🐍 Learning Python and exploring Data Science
+- ⚡ Practicing Data Structures & Algorithms in C++
+- 🧠 Interested in Machine Learning, Generative AI and LLMs
+- 🌱 Always learning, experimenting and building
+
+---
+
+### ✦ Areas of Interest
+
+- Artificial Intelligence & Machine Learning
+- Generative AI & Large Language Models
+- Data Science & Data Analysis
+- Problem Solving & Competitive Programming
+- Building practical, user-focused applications
+
+---
+
+### ✦ Projects & Experiments
+
+| Project | Description |
+|:--|:--|
+| 🔍 **CaseLens AI** | An AI-powered legal research and case analysis platform. |
+| 🌾 **KissanConnect — SIH '26** | A collaborative group project developed for Smart India Hackathon 2026. Contributed to building its prototype. |
+| 🌱 **HabitFlow** | A mobile-first habit tracking application focused on building consistent habits. |
+
+*Building, experimenting and learning through real-world projects.*
+
+---
+
+### ✦ Experience & Leadership
+
+**💼 CohortLab — Intern (Completed)**
+
+Contributed to community growth, research, content creation and outreach initiatives in an ed-tech environment.
+
+**🚀 Hive Coding Society — Lead Organiser**
+
+Contributing to the technical community through coding events, competitions and collaborative initiatives.
+
+**💡 Coding Council Society — Co-Head**
+
+Helping lead student initiatives, coordinate technical activities and encourage a collaborative coding culture.
+
+---
+
+### ✦ LeetCode Journey
+
+<p align="center">
+  <a href="https://leetcode.com/u/Nausheen_Ara06/">
+    <img src="https://leetcard.jacoblin.cool/Nausheen_Ara06?theme=light&font=Baloo+Bhai+2&ext=heatmap" alt="Nausheen's Live LeetCode Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <i>One problem at a time. One step closer to becoming better.</i>
+</p>
+
+---
+
+### ✦ GitHub Activity
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/2563EB/Nausheen-AraKhan" alt="Nausheen's GitHub Contribution Graph" width="100%" />
+</p>
+
+<p align="center">
+  <i>Consistency is built one commit at a time. 💙</i>
+</p>
+
+---
+
+### ✦ Let's Connect
+
+I'm always open to connecting with developers, AI/ML enthusiasts and people who love building things.
+
+<p align="center">
+  <a href="https://linkedin.com/in/nausheen-ara-khan-a18811397">LinkedIn</a> •
+  <a href="https://github.com/Nausheen-AraKhan">GitHub</a> •
+  <a href="https://leetcode.com/u/Nausheen_Ara06/">LeetCode</a>
+</p>
+
+<p align="center">
+  <i>Curious mind. Growing skills. Building what's next.</i> ✨
+</p>
