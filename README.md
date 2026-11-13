@@ -67,9 +67,11 @@ Contributed to community growth, research, content creation and outreach initiat
 
 Contributing to the technical community through coding events, competitions and collaborative initiatives.
 
-**💡 Coding Council Society — Co-Head**
 
-Helping lead student initiatives, coordinate technical activities and encourage a collaborative coding culture.
+**🎨 Coding Council Society — Graphics Team Co-Head**
+
+Co-leading the Graphics Team, contributing to creative direction, visual design and graphics for technical events and society initiatives.
+
 
 ---
 
